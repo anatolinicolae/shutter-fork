@@ -12,7 +12,7 @@ npm install shutter
 #### CDN
 
 ```js
-<script src="https://npmcdn.com/shutter/dist/main.js"></script>
+<script src="https://unpkg.com/shutter/dist/main.js"></script>
 ```
 
 ## Demo
